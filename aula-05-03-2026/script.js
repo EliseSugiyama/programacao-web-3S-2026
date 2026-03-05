@@ -59,7 +59,7 @@ if (hora < 12) {
     console.log("Boa noite");
 }
 
-var diaSemana = 2;
+var diaSemana = 3;
 switch (diaSemana) {
     case 1: 
         console.log("Domingo");
